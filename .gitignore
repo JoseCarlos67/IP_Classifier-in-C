@@ -1,0 +1,5 @@
+# Ignorar executáveis do Windows
+*.exe
+
+# Ignorar a pasta de binários (se você estiver usando)
+bin/
